@@ -16,8 +16,7 @@
     <input
             type="text"
             name="keyword"
-            placeholder="Nhap ten san pham..."
-            class="search-input"
+            placeholder="Nhap ten san pham..."  
             value="${keyword}"
     />
     <button type="submit" class="search-btn">Tim kiem</button>
@@ -47,3 +46,4 @@
 </table>
 </body>
 </html>
+
